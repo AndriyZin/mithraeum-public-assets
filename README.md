@@ -4,7 +4,7 @@ Repository includes interfaces generated with [typechain](https://www.npmjs.com/
 
 # Addresses
 
-All related addresses to the current version of the game (for stage) can be fetched from World. This data is also
+All related addresses to the current version of the game (for stage on [Gnosis chain](https://docs.gnosischain.com/tools/wallets/metamask)) can be fetched from World. This data is also
 accessible from game's local storage.
 
 | Name           | Address                                    |
